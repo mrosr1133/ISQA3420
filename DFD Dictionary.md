@@ -52,5 +52,19 @@
 **Manager:** 
 
 #Processes
+**Manage Software Package for License Scanning:**
+
+**Scan for License:**
+
+**Processing and Totalizing Policy Database:**
+
+**Processing and Totalizing Policy Database:**
+
+**Upload Policy:**
 
 #Database
+**NST Vulnerability Database:**
+
+**Project Vulnerability Database:**
+
+**Policy Database:**
