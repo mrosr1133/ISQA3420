@@ -12,39 +12,39 @@
 
 **Software Package License and Vulnerability Results:** It comes from Manage Software Package for License Scanning back to Developer.
 
-**Software Package License and Vulnerability Results:**
+**Software Package License and Vulnerability Results:** It goes from Manage Software Package for License Scanning to Project Vulnerability Database. 
 
-**Project Vulnerability Database Results:**
+**Project Vulnerability Database Results:** It goes from Project Vulnerability Database to Proceeing and Totalizing Project Database.
 
-**Project Vulnerability Database Request:**
+**Project Vulnerability Database Request:** It goes from Proceeing and Totalizing Project Database back to Project Vulnerability Database.
 
-**Project Vulnerability Database Results:**
+**Project Vulnerability Database Results:** It goes from Proceeing and Totalizing Project Database to Manager.
 
-**Project Vulnerability Database Request:**
+**Project Vulnerability Database Request:** It goes from Manager back to Proceeing and Totalizing Project Database.
 
-**Upload Policy Request:**
+**Update and Create Policy Request:** It goes from Manager to Update and Create Policy.
 
-**Upload Policy Results:**
+**Update and Create Policy Results:** It comes out of Update and Create Policy back to Manager.
 
-**Upload Policy Request:**
+**Update and Create Policy Request:** It goes from Update and Create Policy to Policy Database.
 
-**Upload Policy Results:**
+**Update and Create Policy Results:** It goes from Policy Database back to Update and Create Policy.
 
-**Open Source Software Policy Database Request:**
+**Open Source Software Policy Database Request:** It goes out of Manager to Processing and Totalizing Policy Database.
 
-**Open Source Software Policy Database Results:**
+**Open Source Software Policy Database Results:** It goes from Processing and Totalizing Policy Database back to Manager.
 
-**Open Source Software Policy Database Request:**
+**Open Source Software Policy Database Request:** It goes from Processing and Totalizing Policy Database to Policy Database.
 
-**Open Source Software Policy Database Results:**
+**Open Source Software Policy Database Results:** It comes out of Policy Database back to Processing and Totalizing Policy Database.
 
-**Open Source Software Policy Database Request:**
+**Open Source Software Policy Database Request:** It goes from Developer to Processing and Totalizing Policy Database.
 
-**Open Source Software Policy Database Results:**
+**Open Source Software Policy Database Results:** It goes from Processing and Totalizing Policy Database back to Developer.
 
-**Project Vulnerability Database Request:**
+**Project Vulnerability Database Request:** It comes out of Developer to Proceeing and Totalizing Project Database.
 
-**Project Vulnerability Database Results:**
+**Project Vulnerability Database Results:** It goes from Proceeing and Totalizing Project Database back to Developer.
 
 #Entities
 **Devolper:** 
