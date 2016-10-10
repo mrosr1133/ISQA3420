@@ -2,21 +2,21 @@
 
 #Use Case 1: 
 
-Title: Upload Policy
+**Title:**Upload Policy
 
-Primary Actor: Manager
+**Primary Actor:** Manager
 
-Goal in Context: Manager Get the Open Source Software Policy Database request and review it before upload into the policy database.
+**Goal in Context:** Manager Get the Open Source Software Policy Database request and review it before upload into the policy database.
 
-Stakeholders: Manager/Developer
+**Stakeholders:** Manager/Developer
 
-Preconditions: Manager receive Open Source Software Policy Database request from developer. Manager is able to upload policy to Policy database, which must be running and up to date. 
+**Preconditions:** Manager receive Open Source Software Policy Database request from developer. Manager is able to upload policy to Policy database, which must be running and up to date. 
 
-Main Success Scenario: Manager successfully uploads the policy to policy database successfully.
+**Main Success Scenario:** Manager successfully uploads the policy to policy database successfully.
 
-Failed end conditions: Manager failed to upload the policy.
+**Failed end conditions:** Manager failed to upload the policy.
 
-Trigger: Developer send Open Source Software Policy Database request.
+**Trigger:** Developer send Open Source Software Policy Database request.
 
 #Use Case 2: 
 
