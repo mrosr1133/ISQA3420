@@ -20,39 +20,39 @@
 
 #Use Case 2: 
 
-Title: Developer submit software package for license scanning
+**Title:** Developer submit software package for license scanning
 
-Primary Actor: Developer
+**Primary Actor:** Developer
 
-Goal in Context: Developer submits software package and get the license and vulnerability results.
+**Goal in Context:** Developer submits software package and get the license and vulnerability results.
 
-Stakeholders: Manager/Developer
+**Stakeholders:** Manager/Developer
 
-Preconditions: Developer is able to check in the Software package for license scanning. NST Vulnerability database is up to date and running.
+**Preconditions:** Developer is able to check in the Software package for license scanning. NST Vulnerability database is up to date and running.
 
-Main Success Scenario: Developer gets the license results of software package successfully including vulnerability result.
+**Main Success Scenario:** Developer gets the license results of software package successfully including vulnerability result.
 
-Failed end conditions: Developer is unable to get any license information.
+**Failed end conditions:** Developer is unable to get any license information.
 
-Trigger: Software package check in.
+**Trigger:** Software package check in.
 
 #Use Case 3: 
 
-Title: Check Project Vulnerability
+**Title:** Check Project Vulnerability
 
-Primary Actor: Developer
+**Primary Actor:** Developer
 
-Goal in Context: Developer request for vulnerability check for some project and get the result.
+**Goal in Context:** Developer request for vulnerability check for some project and get the result.
 
-Stakeholders: Manager/Developer
+**Stakeholders:** Manager/Developer
 
-Preconditions: Developer check in project code.
+**Preconditions:** Developer check in project code.
 
-Main Success Scenario: Developers get the vulnerability result for the project.
+**Main Success Scenario:** Developers get the vulnerability result for the project.
 
-Failed end conditions: Vulnerability check fails for particular project for any reason.
+**Failed end conditions:** Vulnerability check fails for particular project for any reason.
 
-Trigger: Project code check in.
+**Trigger:** Project code check in.
 
 
 
