@@ -47,7 +47,7 @@
 **Project Vulnerability Database Results:** It goes from Proceeing and Totalizing Project Database back to Developer.
 
 #Entities
-**Devolper:** 
+**Developer:** 
 
 **Manager:** 
 
