@@ -1,16 +1,16 @@
 
 #Data flow
-**Software package:** 
+**Software package:** It goes from Developer to Manage Software Package for License Scanning.
 
-**Software package:**
+**Software package:** It goes from Manage Software Package for License Scanning to Scan for License.
 
-**Software Package License Results:**
+**Software Package License Results:** It goes from Scan for License back to Manage Software Package for License Scanning.
 
-**Software Package License Name Request:**
+**Software Package License Name Request:** It goes from Manage Software Package for License Scanning to NIST Vulnerability Database. 
 
-**NST Vulnerability Database Results:**
+**NST Vulnerability Database Results:** It goes from NIST Vulnerability Database back to Manage Software Package for License Scanning.
 
-**Software Package License and Vulnerability Results:**
+**Software Package License and Vulnerability Results:** It comes from Manage Software Package for License Scanning back to Developer.
 
 **Software Package License and Vulnerability Results:**
 
