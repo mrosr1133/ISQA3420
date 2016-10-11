@@ -12,11 +12,11 @@
 
 **Software Package License and Vulnerability Results:** It comes from Manage Software Package for License Scanning back to Developer.
 
-**Software Package License and Vulnerability Results:** It goes from Manage Software Package for License Scanning to Project Vulnerability Database. 
+**Software Package License and Vulnerability Results:** It goes from Manage Software Package for License Scanning to Software Package License and Vulnerability Information Database.
 
-**Project Vulnerability Database Results:** It goes from Project Vulnerability Database to Proceeing and Totalizing Project Database.
+**Project Vulnerability Database Results:** It goes from Software Package License and Vulnerability Information Database to Proceeing and Totalizing Project Database.
 
-**Project Vulnerability Database Request:** It goes from Proceeing and Totalizing Project Database back to Project Vulnerability Database.
+**Project Vulnerability Database Request:** It goes from Proceeing and Totalizing Project Database back to Software Package License and Vulnerability Information Database.
 
 **Project Vulnerability Database Results:** It goes from Proceeing and Totalizing Project Database to Manager.
 
