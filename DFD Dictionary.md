@@ -47,24 +47,24 @@
 **Project Vulnerability Database Results:** It goes from Proceeing and Totalizing Project Database back to Developer.
 
 #Entities
-**Developer:** 
+**Developer:** Person who develops the system (coding professionals).
 
-**Manager:** 
+**Manager:** Who manages team of developers and policies in the organization.
 
 #Processes
-**Manage Software Package for License Scanning:**
+**Manage Software Package for License Scanning:** Manage the information related to licensing of the software.
 
-**Scan for License:**
+**Scan for License:** Scan for the information on licenses of softwares.
 
-**Processing and Totalizing Policy Database:**
+**Processing and Totalizing Policy Database:** Process the database which store the information related to policies.
 
-**Processing and Totalizing Policy Database:**
+**Processing and Totalizing Policy Database:** Process the database which stroe the information related to policies.
 
-**Upload Policy:**
+**Upldate and create Policy:** Update the database with new or change in policies.
 
 #Database
-**NST Vulnerability Database:**
+**NIST Vulnerability Database:** Stores the vulnerability information of various external sources.
 
-**Project Vulnerability Database:**
+**Project Vulnerability Database:** Stroes the information related to the policies related to the vulnerability handling.
 
-**Policy Database:**
+**Policy Database:** Stores information related to policies set by manager/organization.
