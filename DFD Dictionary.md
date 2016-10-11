@@ -8,7 +8,7 @@
 
 **Software Package License Name Request:** It goes from Manage Software Package for License Scanning to NIST Vulnerability Database. 
 
-**NST Vulnerability Database Results:** It goes from NIST Vulnerability Database back to Manage Software Package for License Scanning.
+**NIST Vulnerability Database Results:** It goes from NIST Vulnerability Database back to Manage Software Package for License Scanning.
 
 **Software Package License and Vulnerability Results:** It comes from Manage Software Package for License Scanning back to Developer.
 
