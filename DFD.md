@@ -1,1 +1,1 @@
-![dfd-om](https://cloud.githubusercontent.com/assets/21317646/19218199/83e9cda4-8db9-11e6-87d9-3bb52c00a617.jpg)
+![dfd-om3](https://cloud.githubusercontent.com/assets/21317646/19255678/084d0620-8f26-11e6-8c53-697365b801fc.jpg)
